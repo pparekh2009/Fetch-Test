@@ -22,7 +22,3 @@ git clone https://github.com/pparekh2009/Fetch-Test.git
 ```
 3. Open in Android Studio
 4. Build and run on emulator or device
-
-## Notes
-
-- The app is intentionally simple per the assessment guidelines.
